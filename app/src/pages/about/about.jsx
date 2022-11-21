@@ -5,7 +5,7 @@ class About extends React.Component {
     return (
       <section className="section">
           <div className="container">
-              <h1 className="title is-1">TTTTTTT</h1>
+              <h1 className="title is-1">TTTTTTT aaa</h1>
           </div>
           <div className="container mt-2">
               This template's origins arise from my work on My Budget (https://github.com/reZach/my-budget) beginning in 2019. I was building a free Electron application to manage your budget, and was doing the best I could to use and learn Electron. After I spent more time working on the project, I realized the practices I were using were not secure, and decided I needed to build an Electron template that could be used for the new (v2) budgeting application.
